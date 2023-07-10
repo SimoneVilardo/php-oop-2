@@ -1,5 +1,4 @@
 <?php
-
     // Definizione della classe "Game" che eredita dalla classe "Products"
     class Game extends Products {
         public $featurs; // Caratteristiche del gioco

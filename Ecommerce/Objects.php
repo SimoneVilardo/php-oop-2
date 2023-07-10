@@ -1,5 +1,4 @@
 <?php
-
     // Definizione della classe "Objects" che eredita dalla classe "Products"
     class Objects extends Products {
         public $materials; // Materiali degli oggetti

@@ -1,5 +1,4 @@
 <?php
-
     // Definizione della classe "Food" che eredita dalla classe "Products"
     class Food extends Products {
         public $weight; // Peso del cibo
